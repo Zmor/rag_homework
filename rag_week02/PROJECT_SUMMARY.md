@@ -48,7 +48,7 @@
 ## 项目结构
 
 ```
-rag_system/
+rag_week02/
 ├── src/rag_system/          # 核心源代码
 │   ├── core/                # 核心模块（配置、日志、主框架）
 │   ├── embeddings/          # 嵌入模型模块

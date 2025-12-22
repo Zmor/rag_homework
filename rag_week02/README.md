@@ -296,12 +296,6 @@ tail -f logs/rag_system.log
 
 本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 支持
-
-如有问题或建议，请通过以下方式联系：
-- 创建GitHub Issue
-- 发送邮件至: rag@example.com
-
 ## 更新日志
 
 ### v1.0.0 (2024-12-22)
